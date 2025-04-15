@@ -8,7 +8,7 @@ this just replaces the search icon in hollow.live to the actual site image
 - https://violentmonkey.github.io/
 - https://www.tampermonkey.net/
 
-1) download js file
+1) download js file either in this repo or on [greasy fork](https://greasyfork.org/en/scripts/532931-hollow-favi-replacement-thingy-skibidi)
 2) dump into userscript manager
 3) do whatever
 
